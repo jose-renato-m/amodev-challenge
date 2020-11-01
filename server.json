@@ -1,0 +1,234 @@
+{
+   "cars": [
+    {
+       "id":33362491,
+       "brand":"Bmw",
+       "model":"I3",
+       "price":"R$ 144.900",
+       "year":"2014/2015",
+       "travelledDistance":"37000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11365416266.jpg"
+    },
+    {
+       "id":34491557,
+       "brand":"Bmw",
+       "model":"335i",
+       "price":"R$ 98.000",
+       "year":"2011/2012",
+       "travelledDistance":"44000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23450752121.jpg"
+    },
+    {
+       "id":34667460,
+       "brand":"Porsche",
+       "model":"Panamera",
+       "price":"R$ 520.000",
+       "year":"2016/2016",
+       "travelledDistance":"40750 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15122429624.jpg"
+    },
+    {
+       "id":33936552,
+       "brand":"Land rover",
+       "model":"Range Rover Sport",
+       "price":"R$ 285.000",
+       "year":"2013/2014",
+       "travelledDistance":"52500 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem09332960770.jpg"
+    },
+    {
+       "id":34453876,
+       "brand":"Bmw",
+       "model":"X5",
+       "price":"R$ 350.000",
+       "year":"2016/2017",
+       "travelledDistance":"38000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17174551937.jpg"
+    },
+    {
+       "id":33957557,
+       "brand":"Bmw",
+       "model":"X6",
+       "price":"R$ 129.900",
+       "year":"2009/2010",
+       "travelledDistance":"83700 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06303410792.jpg"
+    },
+    {
+       "id":34625639,
+       "brand":"Land rover",
+       "model":"Range Rover Evoque",
+       "price":"R$ 151.900",
+       "year":"2014/2015",
+       "travelledDistance":"70000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13242180196.jpg"
+    },
+    {
+       "id":34176859,
+       "brand":"Lexus",
+       "model":"Rx350 F-sport",
+       "price":"R$ 190.000",
+       "year":"2016/2016",
+       "travelledDistance":"50096 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem13043223010.jpg"
+    },
+    {
+       "id":33819490,
+       "brand":"Jaguar",
+       "model":"I-pace",
+       "price":"R$ 399.900",
+       "year":"2019/2020",
+       "travelledDistance":"3400 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210156771.jpg"
+    },
+    {
+       "id":33282103,
+       "brand":"Mini",
+       "model":"Cooper",
+       "price":"R$ 57.900",
+       "year":"2012/2013",
+       "travelledDistance":"79370 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425200286.jpg"
+    },
+    {
+       "id":34566972,
+       "brand":"Porsche",
+       "model":"911",
+       "price":"R$ 835.000",
+       "year":"2020/2020",
+       "travelledDistance":"2750 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem1146516458.jpg"
+    },
+    {
+       "id":34633634,
+       "brand":"Bmw",
+       "model":"X5",
+       "price":"R$ 279.000",
+       "year":"2017/2018",
+       "travelledDistance":"35500 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem12011638779.jpg"
+    },
+    {
+       "id":34425483,
+       "brand":"Chevrolet",
+       "model":"Onix",
+       "price":"R$ 26.900",
+       "year":"2014/2015",
+       "travelledDistance":"67000 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11514899646.jpg"
+    },
+    {
+       "id":34188241,
+       "brand":"Jeep",
+       "model":"Renegade",
+       "price":"R$ 86.900",
+       "year":"2015/2016",
+       "travelledDistance":"62000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472121483.jpg"
+    },
+    {
+       "id":34176864,
+       "brand":"Lexus",
+       "model":"Ct200h",
+       "price":"R$ 90.000",
+       "year":"2016/2017",
+       "travelledDistance":"41250 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13043384594.jpg"
+    },
+    {
+       "id":34237196,
+       "brand":"Toyota",
+       "model":"Prius",
+       "price":"R$ 89.990",
+       "year":"2017/2018",
+       "travelledDistance":"22890 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13021620044.jpg"
+    },
+    {
+       "id":34481036,
+       "brand":"Volkswagen",
+       "model":"Tiguan",
+       "price":"R$ 41.900",
+       "year":"2011/2011",
+       "travelledDistance":"113000 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13571546857.jpg"
+    },
+    {
+       "id":33804269,
+       "brand":"Bmw",
+       "model":"535i",
+       "price":"R$ 87.900",
+       "year":"2011/2011",
+       "travelledDistance":"89000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10012397829.jpg"
+    },
+    {
+       "id":34556512,
+       "brand":"Fiat",
+       "model":"Bravo",
+       "price":"R$ 32.000",
+       "year":"2014/2014",
+       "travelledDistance":"75000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM14393068146.jpg"
+    },
+    {
+       "id":34176875,
+       "brand":"Lexus",
+       "model":"Ux 250h",
+       "price":"R$ 197.990",
+       "year":"2019/2019",
+       "travelledDistance":"8660 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13043123772.jpg"
+    },
+    {
+       "id":32146480,
+       "brand":"Fiat",
+       "model":"Grand Siena",
+       "price":"R$ 32.500",
+       "year":"2015/2015",
+       "travelledDistance":"61000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17415087568.jpg"
+    },
+    {
+       "id":34089535,
+       "brand":"Honda",
+       "model":"Fit",
+       "price":"R$ 29.900",
+       "year":"2009/2009",
+       "travelledDistance":"92700 km",
+       "automatic":false,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422292568.jpg"
+    },
+    {
+       "id":34409221,
+       "brand":"Honda",
+       "model":"City",
+       "price":"R$ 73.900",
+       "year":"2019/2019",
+       "travelledDistance":"26000 km",
+       "automatic":true,
+       "photo":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224265223.jpg"
+    }
+ ]
+ }
